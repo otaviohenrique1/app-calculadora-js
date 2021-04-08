@@ -1,0 +1,15 @@
+{
+  "name": "app-calculadora-js",
+  "version": "1.0.0",
+  "description": "app-calculadora-js",
+  "main": "main.js",
+  "scripts": {
+    "start": "electron ."
+  },
+  "keywords": ["html", "css", "javascript", "nodejs", "electron"],
+  "author": "Otavio Henrique",
+  "license": "ISC",
+  "devDependencies": {
+    "electron": "^12.0.2"
+  }
+}
